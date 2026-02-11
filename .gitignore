@@ -1,5 +1,5 @@
-# Smithery build output
-.smithery/
+# Vercel
+.vercel
 
 # Logs
 logs
