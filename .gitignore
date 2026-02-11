@@ -1,3 +1,6 @@
+# Smithery build output
+.smithery/
+
 # Logs
 logs
 *.log
